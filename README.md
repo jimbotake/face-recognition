@@ -26,7 +26,7 @@ Aplikasi web sederhana untuk pengenalan wajah menggunakan \*\*Streamlit\*\* dan 
 
 !\[Tampilan Aplikasi saat mendeteksi betul](images/true\_capture.jpg)
 
-!\[Tampilan Aplikasi saat mendeteksi salah](images/false\_capture.jpg)
+
 
 
 
