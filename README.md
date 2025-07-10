@@ -47,7 +47,7 @@ Aplikasi web sederhana untuk pengenalan wajah menggunakan \*\*Streamlit\*\* dan 
 
 1\. Clone repositori ini:
 
-&nbsp;  git clone https://github.com/username/face-recognition-app.git
+&nbsp;  git clone https://github.com/jimbotake/face-recognition.git
 
 &nbsp;  cd face-recognition-app
 
