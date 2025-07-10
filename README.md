@@ -22,6 +22,16 @@ Aplikasi web sederhana untuk pengenalan wajah menggunakan \*\*Streamlit\*\* dan 
 
 
 
+\## Tampilan Aplikasi
+
+!\[Tampilan Aplikasi saat mendeteksi betul](images/true\_capture.jpg)
+
+!\[Tampilan Aplikasi saat mendeteksi salah](images/false\_capture.jpg)
+
+
+
+
+
 \## Teknologi
 
 \- Python 3.x
@@ -40,29 +50,23 @@ Aplikasi web sederhana untuk pengenalan wajah menggunakan \*\*Streamlit\*\* dan 
 
 1\. Clone repositori ini:
 
-&nbsp;  ```bash
-
 &nbsp;  git clone https://github.com/username/face-recognition-app.git
 
 &nbsp;  cd face-recognition-app
 
-&nbsp;  ```
+&nbsp; 
 
 2\. Install dependensi:
 
-&nbsp;  ```bash
-
 &nbsp;  pip install -r requirements.txt
 
-&nbsp;  ```
+&nbsp;  
 
 3\. Jalankan aplikasi Streamlit:
 
-&nbsp;  ```bash
-
 &nbsp;  streamlit run app.py
 
-&nbsp;  ```
+&nbsp;  
 
 
 
